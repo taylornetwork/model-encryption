@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Support\Traits;
+namespace TaylorNetwork\ModelEncryption;
 
 
 trait Encryptable
