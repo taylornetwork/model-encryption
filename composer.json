@@ -1,0 +1,16 @@
+{
+    "name": "taylornetwork/model-encryption",
+    "description": "Adds encryption to Laravel models using Laravel's built in encryption",
+    "authors": [
+        {
+            "name": "Sam Taylor",
+            "email": "sam@taylornetwork.ca"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"TaylorNetwork\\ModelEncryption\\": "src/"
+    	}
+    }
+}
